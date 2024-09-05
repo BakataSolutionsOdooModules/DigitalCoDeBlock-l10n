@@ -1,0 +1,21 @@
+{
+    "index.cameraPermissionDeniedMessage": "Se ha denegado el permiso para utilizar la cámara. OpenBlock no será capaz de tomar una foto o utilizar bloques de detección de vídeo.",
+    "index.cameraPermissionDeniedTitle": "Denegado permiso de acceso a camera",
+    "index.darwinPermissionDeniedInstructions": "Para cambiar los permisos de OpenBlock, marque «Seguridad y privacidad» en Preferencias del Sistema.",
+    "index.failedLoadProject": "No se puede cargar proyecto desde fichero:",
+    "index.initialResourcesFailedTitle": "Error inicializando recursos",
+    "index.initializeResourcesFailed": "Inicializar recursos ha fallado",
+    "index.internetDisconnectedError": "Desconectado de Internet, por favor verifica tu conexión a internet e intentelo de nuevo.",
+    "index.leave": "Salir",
+    "index.microphonePermissionDeniedMessage": "Permiso para usar microfono ha sido denegado. DigitalCoDeBlock no será capaz de grabar sonidos o detectar ruido.",
+    "index.microphonePermissionDeniedTitle": "Permiso de microfono denegado",
+    "index.permissionDeniedInstructions": "Para cambiar permisos de DigitalCoDeBlock, por favor mire su configuración de sistema y reinicie la aplicación.",
+    "index.permissionDeniedMessage": "El permiso ha sido denegado.",
+    "index.permissionDeniedTitle": "Permiso denegado",
+    "index.questionLeave": "¿Abandonar DigitalCoDeBlock?",
+    "index.questionLeaveDetail": "Cualquier cambio no guardado se perderá",
+    "index.saveFailed": "Error guardando:",
+    "index.saveFailedTitle": "Error guardando proyecto",
+    "index.stay": "Quedarse",
+    "index.systemRestartRequired": "Instalación esta completa, por favor, reinicie su sistema."
+}

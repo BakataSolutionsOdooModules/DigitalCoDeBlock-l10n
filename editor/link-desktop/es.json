@@ -1,0 +1,18 @@
+{
+    "index.menu.checkUpdate": "comprobando actualizaciones",
+    "index.menu.checkingUpdate": "comprobando por actualizaciones...",
+    "index.menu.exit": "salir",
+    "index.menu.installDiver": "instalar Driver",
+    "index.menu.learCacheAndRestart": "limpiar cache y reiniciar",
+    "index.menu.setLanguage": "Introducir aguante",
+    "index.messageBox.alreadyLatest": "Ya en la última versión",
+    "index.messageBox.alreadyLatestTips": "Recursos externos ya esta en la última versión.",
+    "index.messageBox.covering": "Cubriendo",
+    "index.messageBox.downloading": "Descargando",
+    "index.messageBox.newExternalResource": "Nueva version de recursos externos detectada",
+    "index.messageBox.operationFailed": "Operación fallida",
+    "index.messageBox.upgradeAndRestart": "Actualizar y reiniciar",
+    "index.messageBox.upgradeLater": "Actualizar más tarde",
+    "index.messageBox.upgrading": "Actualizando",
+    "index.messageBox.upgradingTip": "La actualización esta en progreso, por favor no me cierre, el programa reiniciará automaticamente despues de que la actualización se complete."
+}
