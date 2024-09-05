@@ -4,9 +4,11 @@
 # NPM
 /node_modules
 npm-*
+package-lock.json
 
 # generated locale files
 /locales
 
 # generated build files
 /dist
+
