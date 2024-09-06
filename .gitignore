@@ -7,7 +7,7 @@ npm-*
 package-lock.json
 
 # generated locale files
-/locales
+#/locales
 
 # generated build files
 /dist
