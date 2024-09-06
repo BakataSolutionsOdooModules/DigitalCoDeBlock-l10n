@@ -1263,6 +1263,7 @@ export default {
     "paint.textMode.text": "Text"
   },
   "es": {
+    "gui.menuBar.noDeviceSelected": "No device selected",
     "gui.alerts.lostPeripheralConnection": "Scratch ha perdido la conexión con {extensionName}.",
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
     "gui.alerts.download": "Descargar",
