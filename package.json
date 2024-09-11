@@ -40,7 +40,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BakataSolutionsOdooModules/DigitalCoDeSign-l10n.git"
+        "url": "git+ssh://git@github.com:BakataSolutionsOdooModules/DigitalCoDeSign-l10n.git"
     },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
