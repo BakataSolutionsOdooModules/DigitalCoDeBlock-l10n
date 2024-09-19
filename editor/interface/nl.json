@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Links/rechts",
     "gui.directionPicker.rotationStyles.dontRotate": "Niet meedraaien",
     "gui.gui.addExtension": "Voeg een uitbreiding toe",
-    "gui.gui.codeTab": "Code",
+    "gui.gui.blockTab": "Code",
     "gui.gui.backdropsTab": "Achtergronden",
     "gui.gui.costumesTab": "Uiterlijken",
     "gui.gui.soundsTab": "Geluiden",

@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "左右のみ",
     "gui.directionPicker.rotationStyles.dontRotate": "回転しない",
     "gui.gui.addExtension": "拡張機能を追加",
-    "gui.gui.codeTab": "コード",
+    "gui.gui.blockTab": "コード",
     "gui.gui.backdropsTab": "背景",
     "gui.gui.costumesTab": "コスチューム",
     "gui.gui.soundsTab": "音",

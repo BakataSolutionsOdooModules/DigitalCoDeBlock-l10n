@@ -82,7 +82,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "左右翻转",
     "gui.directionPicker.rotationStyles.dontRotate": "不旋转",
     "gui.gui.addExtension": "添加扩展",
-    "gui.gui.codeTab": "代码",
+    "gui.gui.blockTab": "代码",
     "gui.gui.backdropsTab": "背景",
     "gui.gui.costumesTab": "造型",
     "gui.gui.soundsTab": "声音",

@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Esquerra/Dreta",
     "gui.directionPicker.rotationStyles.dontRotate": "No giris",
     "gui.gui.addExtension": "Afegeix una Extensió",
-    "gui.gui.codeTab": "Codi",
+    "gui.gui.blockTab": "Codi",
     "gui.gui.backdropsTab": "Fons",
     "gui.gui.costumesTab": "Vestits",
     "gui.gui.soundsTab": "Sons",

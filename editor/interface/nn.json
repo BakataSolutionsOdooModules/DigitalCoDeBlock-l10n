@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Venstre–høgre",
     "gui.directionPicker.rotationStyles.dontRotate": "Ikkje roter",
     "gui.gui.addExtension": "Hent tilleggsfunksjon",
-    "gui.gui.codeTab": "Kode",
+    "gui.gui.blockTab": "Kode",
     "gui.gui.backdropsTab": "Bakgrunnar",
     "gui.gui.costumesTab": "Drakter",
     "gui.gui.soundsTab": "Lydar",

@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "বাম/ডান",
     "gui.directionPicker.rotationStyles.dontRotate": "ঘুরাইয়ো না",
     "gui.gui.addExtension": "এক্সটেনশন যোগ কর",
-    "gui.gui.codeTab": "কোড ",
+    "gui.gui.blockTab": "কোড ",
     "gui.gui.backdropsTab": "ব্যাকড্রপগুলো ",
     "gui.gui.costumesTab": "পোশাক ",
     "gui.gui.soundsTab": "শব্দগুলো",

@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Balra-jobbra",
     "gui.directionPicker.rotationStyles.dontRotate": "Nem foroghat",
     "gui.gui.addExtension": "Bővítmény hozzáadása",
-    "gui.gui.codeTab": "Kód",
+    "gui.gui.blockTab": "Kód",
     "gui.gui.backdropsTab": "Hátterek",
     "gui.gui.costumesTab": "Jelmezek",
     "gui.gui.soundsTab": "Hangok",

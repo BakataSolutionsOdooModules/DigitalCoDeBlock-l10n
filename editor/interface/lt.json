@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "kairėn/dešinėn",
     "gui.directionPicker.rotationStyles.dontRotate": "Nesisukti",
     "gui.gui.addExtension": "Pridėti plėtinį",
-    "gui.gui.codeTab": "Programos kodas",
+    "gui.gui.blockTab": "Programos kodas",
     "gui.gui.backdropsTab": "Fonai",
     "gui.gui.costumesTab": "Kaukės",
     "gui.gui.soundsTab": "Garsai",

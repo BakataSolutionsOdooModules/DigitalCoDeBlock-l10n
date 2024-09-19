@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Vasen/Oikea",
     "gui.directionPicker.rotationStyles.dontRotate": "Älä kierrä",
     "gui.gui.addExtension": "Lisää laajennus",
-    "gui.gui.codeTab": "Koodi",
+    "gui.gui.blockTab": "Koodi",
     "gui.gui.backdropsTab": "Taustat",
     "gui.gui.costumesTab": "Asusteet",
     "gui.gui.soundsTab": "Äänet",

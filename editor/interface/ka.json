@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "მარცხენა/მარჯვენა",
     "gui.directionPicker.rotationStyles.dontRotate": "ტრიალის გარეშე",
     "gui.gui.addExtension": "გაფართოების დამატება",
-    "gui.gui.codeTab": "კოდი",
+    "gui.gui.blockTab": "კოდი",
     "gui.gui.backdropsTab": "ფონები",
     "gui.gui.costumesTab": "კოსტიუმები",
     "gui.gui.soundsTab": "ხმები",

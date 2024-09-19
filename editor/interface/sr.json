@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Лево/десно",
     "gui.directionPicker.rotationStyles.dontRotate": "Без окретања",
     "gui.gui.addExtension": "Додај проширење",
-    "gui.gui.codeTab": "Програм",
+    "gui.gui.blockTab": "Програм",
     "gui.gui.backdropsTab": "Позадине",
     "gui.gui.costumesTab": "Костими",
     "gui.gui.soundsTab": "Звукови",

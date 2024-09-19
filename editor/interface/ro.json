@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "stânga-dreapta",
     "gui.directionPicker.rotationStyles.dontRotate": "nu roti",
     "gui.gui.addExtension": "Adaugă o extensie",
-    "gui.gui.codeTab": "Cod",
+    "gui.gui.blockTab": "Cod",
     "gui.gui.backdropsTab": "Decoruri",
     "gui.gui.costumesTab": "Costume",
     "gui.gui.soundsTab": "Sunete",

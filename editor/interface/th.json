@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "ซ้าย/ขวา",
     "gui.directionPicker.rotationStyles.dontRotate": "อย่าหมุน",
     "gui.gui.addExtension": "เพิ่มส่วนขยาย",
-    "gui.gui.codeTab": "โค้ด",
+    "gui.gui.blockTab": "โค้ด",
     "gui.gui.backdropsTab": "ฉากหลัง",
     "gui.gui.costumesTab": "คอสตูม",
     "gui.gui.soundsTab": "เสียง",

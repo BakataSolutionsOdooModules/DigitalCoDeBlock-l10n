@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "chap tomon / o'ng tomon",
     "gui.directionPicker.rotationStyles.dontRotate": "Aylanmaslik",
     "gui.gui.addExtension": "Kengaytirish buyrug'ini qo'shish",
-    "gui.gui.codeTab": "Kod",
+    "gui.gui.blockTab": "Kod",
     "gui.gui.backdropsTab": "Fon",
     "gui.gui.costumesTab": "Ko'rinish",
     "gui.gui.soundsTab": "Ovoz",

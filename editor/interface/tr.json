@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "sağa-sola",
     "gui.directionPicker.rotationStyles.dontRotate": "döndürme",
     "gui.gui.addExtension": "Eklenti Ekle",
-    "gui.gui.codeTab": "Kod",
+    "gui.gui.blockTab": "Kod",
     "gui.gui.backdropsTab": "Dekorlar",
     "gui.gui.costumesTab": "Kostümler",
     "gui.gui.soundsTab": "Sesler",

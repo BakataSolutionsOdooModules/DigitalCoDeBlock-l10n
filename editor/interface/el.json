@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Αριστερά/Δεξιά",
     "gui.directionPicker.rotationStyles.dontRotate": "Χωρίς περιστροφή",
     "gui.gui.addExtension": "Προσθήκη Επέκτασης",
-    "gui.gui.codeTab": "Κώδικας",
+    "gui.gui.blockTab": "Κώδικας",
     "gui.gui.backdropsTab": "Yπόβαθρα",
     "gui.gui.costumesTab": "Ενδυμασίες",
     "gui.gui.soundsTab": "Ήχοι",

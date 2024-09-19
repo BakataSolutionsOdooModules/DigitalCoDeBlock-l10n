@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "vasak/parem",
     "gui.directionPicker.rotationStyles.dontRotate": "ei pöördu",
     "gui.gui.addExtension": "Lisa laiendus",
-    "gui.gui.codeTab": "Kood",
+    "gui.gui.blockTab": "Kood",
     "gui.gui.backdropsTab": "Taustad",
     "gui.gui.costumesTab": "Kostüümid",
     "gui.gui.soundsTab": "Helid",

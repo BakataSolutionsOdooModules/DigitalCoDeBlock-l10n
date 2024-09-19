@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Sinistra-Destra",
     "gui.directionPicker.rotationStyles.dontRotate": "Non ruotare",
     "gui.gui.addExtension": "Aggiungi un'Estensione",
-    "gui.gui.codeTab": "Codice",
+    "gui.gui.blockTab": "Codice",
     "gui.gui.backdropsTab": "Sfondi",
     "gui.gui.costumesTab": "Costumi",
     "gui.gui.soundsTab": "Suoni",

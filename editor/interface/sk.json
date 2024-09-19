@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "vľavo-vpravo",
     "gui.directionPicker.rotationStyles.dontRotate": "neotáčaj",
     "gui.gui.addExtension": "Pridaj rozšírenie",
-    "gui.gui.codeTab": "Scenáre",
+    "gui.gui.blockTab": "Scenáre",
     "gui.gui.backdropsTab": "Pozadia",
     "gui.gui.costumesTab": "Kostýmy",
     "gui.gui.soundsTab": "Zvuky",

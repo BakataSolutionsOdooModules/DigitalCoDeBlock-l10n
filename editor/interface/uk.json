@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Зліва-направо",
     "gui.directionPicker.rotationStyles.dontRotate": "Не обертати",
     "gui.gui.addExtension": "Додати розширення",
-    "gui.gui.codeTab": "Код",
+    "gui.gui.blockTab": "Код",
     "gui.gui.backdropsTab": "Тло",
     "gui.gui.costumesTab": "Образи",
     "gui.gui.soundsTab": "Звуки",

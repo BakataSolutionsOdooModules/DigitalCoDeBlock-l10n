@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "왼쪽/오른쪽",
     "gui.directionPicker.rotationStyles.dontRotate": "회전하지 않기",
     "gui.gui.addExtension": "확장 기능 추가하기",
-    "gui.gui.codeTab": "코드",
+    "gui.gui.blockTab": "코드",
     "gui.gui.backdropsTab": "배경",
     "gui.gui.costumesTab": "모양",
     "gui.gui.soundsTab": "소리",

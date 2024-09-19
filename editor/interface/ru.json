@@ -82,7 +82,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Влево/направо",
     "gui.directionPicker.rotationStyles.dontRotate": "Не вращать",
     "gui.gui.addExtension": "Добавить расширение",
-    "gui.gui.codeTab": "Код",
+    "gui.gui.blockTab": "Код",
     "gui.gui.backdropsTab": "Фоны",
     "gui.gui.costumesTab": "Костюмы",
     "gui.gui.soundsTab": "Звуки",

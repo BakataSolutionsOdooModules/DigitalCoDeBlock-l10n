@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Kiri/Kanan",
     "gui.directionPicker.rotationStyles.dontRotate": "Jangan berputar",
     "gui.gui.addExtension": "Tambahkan Ekstensi",
-    "gui.gui.codeTab": "Kode",
+    "gui.gui.blockTab": "Kode",
     "gui.gui.backdropsTab": "Latar",
     "gui.gui.costumesTab": "Kostum",
     "gui.gui.soundsTab": "Suara",

@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Lijevo/Desno",
     "gui.directionPicker.rotationStyles.dontRotate": "Bez okretanja",
     "gui.gui.addExtension": "Dodaj proširenje",
-    "gui.gui.codeTab": "Skripte",
+    "gui.gui.blockTab": "Skripte",
     "gui.gui.backdropsTab": "Pozadine",
     "gui.gui.costumesTab": "Kostimi",
     "gui.gui.soundsTab": "Zvukovi",

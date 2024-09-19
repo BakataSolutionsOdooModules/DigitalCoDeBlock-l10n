@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Vinstri/hægri",
     "gui.directionPicker.rotationStyles.dontRotate": "Ekki snúast",
     "gui.gui.addExtension": "Bæta við viðbót",
-    "gui.gui.codeTab": "Kóði",
+    "gui.gui.blockTab": "Kóði",
     "gui.gui.backdropsTab": "Bakgrunnar",
     "gui.gui.costumesTab": "Búningar",
     "gui.gui.soundsTab": "Hljóð",

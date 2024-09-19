@@ -71,7 +71,7 @@
     "gui.directionPicker.rotationStyles.leftRight": "Vänster/Höger",
     "gui.directionPicker.rotationStyles.dontRotate": "Rotera inte",
     "gui.gui.addExtension": "Lägg till ett tillägg",
-    "gui.gui.codeTab": "Kod",
+    "gui.gui.blockTab": "Kod",
     "gui.gui.backdropsTab": "Bakgrunder",
     "gui.gui.costumesTab": "Klädslar",
     "gui.gui.soundsTab": "Ljud",
