@@ -273,6 +273,7 @@
     "gui.updateModal.applicationDownloadeFinishTips": "Descarga de la aplicación completada, se cerrará automáticamente y comenzará el instalador en 3 segundos.",
     "gui.betaModal.title": "Información",
     "gui.betaModal.body": "Esta aplicación está en beta.",
+    "gui.betaModal.close": "Cerrar",
     "gui.uploadProgress.uploading": "Subiendo",
     "gui.uploadProgress.uploadSuccess": "Subida exitosa",
     "gui.uploadProgress.uploadError": "Error de subida",
