@@ -271,6 +271,8 @@
     "gui.updateModel.downloadingApplication": "Downloading application",
     "gui.updateModel.tileApplicationDownloadFinish": "Application download complete",
     "gui.updateModal.applicationDownloadeFinishTips": "Application download complete, it will automatically quit and start installer after 3 seconds.",
+    "gui.betaModal.title": "Information",
+    "gui.betaModal.body": "This application is in beta.",
     "gui.uploadProgress.uploading": "Uploading",
     "gui.uploadProgress.uploadSuccess": "Upload success",
     "gui.uploadProgress.uploadError": "Upload error",
