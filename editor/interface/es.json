@@ -239,7 +239,7 @@
     "gui.stageSelector.backdrops": "Fondos",
     "gui.telemetryOptIn.label": "Enviar estadísticas para mejorar Digital Codeblock",
     "gui.telemetryOptIn.body1": "El equipo de Digital Codeblock siempre busca entender mejor cómo se usa Digital Codeblock en todo el mundo. Para ayudar en este esfuerzo, puedes permitir que Digital Codeblock envíe automáticamente información de uso al equipo de Digital Codeblock.",
-    "gui.telemetryOptIn.body2": "La información que recopilamos incluye selección de idioma, uso de bloques y algunos eventos como guardar, cargar y subir un proyecto. NO recopilamos ninguna información personal. Consulta nuestra {privacyPolicyLink} para más información.",
+    "gui.telemetryOptIn.body2": "NO recopilamos ninguna información personal. Consulta nuestra {privacyPolicyLink} para más información.",
     "gui.telemetryOptIn.privacyPolicyLink": "Política de privacidad",
     "gui.telemetryOptIn.optInText": "Compartir mis datos de uso con el equipo de Digital Codeblock",
     "gui.telemetryOptIn.optInTooltip": "Habilitar telemetría",
